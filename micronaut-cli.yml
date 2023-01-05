@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.tiozao
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [annotation-api, app-name, data, data-mongodb, elasticsearch, http-client, jackson-databind, junit, kotlin, kotlin-application, kotlin-extension-functions, log4j2, management, maven, micrometer, micrometer-prometheus, mockito, netty-server, openapi, readme, security-annotations, security-jwt, shade, swagger-ui, test-resources, yaml]
